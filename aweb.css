@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+<head>
+       <title> Landing Page Design</title>
+	   <link rel="stylesheet" type="text/css" href="aweb.css">
+       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<header>
+    <nav class="nav1">
+	   <div>
+         <p>
+		      Contact:Indore,India
+			  Phone No :9131737607
+
+         <p>
+		 
+		 
+	</div>
+	<div >
+	     
+	    
+		 
+	</div>
+	
+	<div>
+	         
+	         <i class="fa fa-facebook"></i>
+		     <i class="fa fa-google"></i>
+		     <i class="fa fa-twitter"></i>
+			 <a href="#">Signup</a>
+			 <a href="#">Signin</a>
+		 
+	</div>
+	</nav>
+	
+	
+<nav class="nav2">
+    <div class="logo">
+	Intern Crowd   
+	
+	
+	
+	</div>
+	<div class="menu">
+	      <a href="#">Home</a>
+		  <a href="#">work</a>
+		  <a href="#">Services</a>
+		  <a href="#">info</a>
+		  <a href="#">About us</a>
+	
+	
+	</div>
+</nav>
+<div class="h-text">
+<h1>
+<h1> We are <span> hiring!</span></h1>
+</h1>
+<p>
+Develop  professional skills & Experience
+
+</p>
+<a href ="#">Learn more</a>
+
+</header>
+</body>
+</html>
